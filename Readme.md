@@ -1,13 +1,11 @@
 ﻿# Gestion des Processus et Threads en C
 
-Ce dépôt contient des programmes en langage C illustrant la gestion des **processus** et des **threads** sous Unix/Linux. Il est destiné à l'apprentissage des concepts fondamentaux de la programmation système, y compris la **création de processus**, la **programmation multi-thread**, la **synchronisation**, et la **communication inter-processus (IPC)**.
+   Ce dépôt contient des programmes en langage C illustrant la gestion des **processus** et des **threads** sous Unix/Linux. Il est destiné à l'apprentissage des concepts fondamentaux de 
+   la programmation système, y compris la **création de processus**, la **programmation multi-thread**, la **synchronisation**, et la **communication inter-processus (IPC)**.
 
 ## 🔧 Contenu
 
-- `thread_print.c` — Création de threads avec `pthread`, passage de paramètres via struct, affichage concurrent.
-- `pipe_named.c` — Communication via FIFO (pipe nommé) entre deux processus indépendants.
-- `fork_exec.c` — Utilisation de `fork()` et `exec()` pour lancer un processus fils.
-- `mutex_example.c` — Synchronisation entre threads avec `pthread_mutex`.
+
 
 ## ⚙️ Compilation
 
